@@ -1,2 +1,2 @@
 # Deep-CNN-2D-Floor-Plan-Classifier
-CNN Classifier built from scratch for 2D Floor Plans, used to categorize between residential floor plans and commercial office floor plans.
+2D Floor Plans Classifier built from scratch using Python, Tensorflow and Keras. This fun little model is used to differentiate between residential floor plans and commercial office floor plans.
